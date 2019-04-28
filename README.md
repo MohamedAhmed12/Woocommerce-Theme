@@ -52,4 +52,4 @@ Front-End Features
 	= meta.php	  	-> the url (woocommerce\templates\single-product)
 	= single-product.php  	-> the url (woocommerce\templates)
 
-14- Redirect To Home Page After Loging Out
+13- Redirect To Home Page After Loging Out
