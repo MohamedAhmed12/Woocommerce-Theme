@@ -2,8 +2,11 @@ Hello
 Welocme to our my woocommerce theme, I hope that you enjoy it.
 
 Requirments:
+
 1- install woocommerce plugin
+
 2- import the csv file (sample_products) from this directory ( wordpress\wp-content\plugins\woocommerce\sample-data )
+
 3-install (Advanced Custom Fields) plugin in order to insert videos for the products
 
 	= add two Custome fields with Field Names (featured_video - description_video)
@@ -11,7 +14,11 @@ Requirments:
 	= in the location tab u choose    post type => equla to => product
 	= in product edit page enter the link of the video in the product video field
 	= insert the URL of the featured video for your product copy the link after => watch?v=
+
 4- copy the uploads folder in your ( wordpress\wp-content\uploads )
+
+5- import the data base from ( DB tables ) Folder
+
 
 What I offer here is dynamic edits and features on the Woocommerce plug-in which client could change the way he like and all of this is achieved through the function.php
 and the Features are:
