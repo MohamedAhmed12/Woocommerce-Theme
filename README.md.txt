@@ -17,39 +17,25 @@ What I offer here is dynamic edits and features on the Woocommerce plug-in which
 and the Features are:
 
 Admin Dashboard Features
-
 1- Change the cover image for home page (Shope Page) 
-
-2-changing the navbar menues and logo in the dashboard page
-
-3- Create new section in the products tab of wocommerce in admin dashboard through this new section that called (Customize Shop Page) I added features to be  able to do the following
+changing the navbar menues and logo in the dashboard page
+2- Create new section in the products tab of wocommerce in admin dashboard through this new section that called (Customize Shop Page) I added features to be  able to do the following
 	= Change number of products per row   (dafult  and max 4 product per row according to the style)
 	= Change number or products per pages (dafult 12 prodct per page)
 	= Add the option of showing or hiding related products
 	= Add Custome placeholder image for products that image isn't setted yet
-
+3- Allow wordpress to upload SVG type of files
 4- Allow wordpress to upload SVG type of files
-5- Allow wordpress to upload SVG type of files
 
 Front-End Features
-
-6- Display category image on category archive page
-
-7- Removing (output notices - Result Count - catalog orderring) from shop page
-
-8- Removing the breadcrumb from the page
-
-9- Adding HTML tags in the site as I have used snippet in my products card from this link => (https://littlesnippets.net/snip1402)
-
-10- Remove the tabs from single product page (examples: description & reviews)
-
-
-11- Edit the tabs from single product page ( deleting & adding custome ones)
-
-12- Display Thumbnail video instead of image on products in both (shop home page - single product page)
-
-13- set the number of views on the product pag in order to apply this feature you have to replace those files in your woocommerce folder(directory)
+5- Display category image on category archive page
+6- Removing (output notices - Result Count - catalog orderring) from shop page
+7- Removing the breadcrumb from the page
+8- Adding HTML tags in the site as I have used snippet in my products card from this link => (https://littlesnippets.net/snip1402)
+9- Remove the tabs from single product page (examples: description & reviews)
+10- Edit the tabs from single product page ( deleting & adding custome ones)
+11- Display Thumbnail video instead of image on products in both (shop home page - single product page)
+12- set the number of views on the product pag in order to apply this feature you have to replace those files in your woocommerce folder(directory)
 	= meta.php	  	-> the url (woocommerce\templates\single-product)
 	= single-product.php  	-> the url (woocommerce\templates)
-
-14- Redirect To Home Page After Loging Out
+13- Redirect To Home Page After Loging Out
