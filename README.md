@@ -1,5 +1,5 @@
 Hello
-Welocme to our my woocommerce theme, I hope that you enjoy it.
+Welocme to our my woocommerce theme, It's been created as a TwentySeventeen Child Theme, I hope that you enjoy it.
 
 Requirments:
 
